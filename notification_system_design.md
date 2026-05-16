@@ -21,3 +21,23 @@ Response:
 {
   "successs": true
 }
+
+
+
+# Stage 2
+
+
+
+{
+  "_id": "",
+  "studentId": "",
+  "type": "",
+  "message": "",
+  "timestamp": ""
+}
+
+
+
+- Use indexing
+- Use pagination
+- Use sharding
