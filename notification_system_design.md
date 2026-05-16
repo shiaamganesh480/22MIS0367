@@ -19,5 +19,5 @@ Request:
 
 Response:
 {
-  "success": true
+  "successs": true
 }
