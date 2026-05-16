@@ -41,3 +41,11 @@ Response:
 - Use indexing
 - Use pagination
 - Use sharding
+
+# Stage 3
+The query is slow because it scans many rows.
+
+Suggested Index:
+(studentId, isRead, createdAt)
+
+Avoid indexing every column.
